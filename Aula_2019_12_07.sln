@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_2019_12_07.Android", "Aula_2019_12_07.Android\Aula_2019_12_07.Android.csproj", "{AC842EA8-A867-4C0A-9185-B3C294A97AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_2019_12_07", "Aula_2019_12_07\Aula_2019_12_07.csproj", "{2E95938D-A6DC-4AEF-BE43-743B507BDEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC842EA8-A867-4C0A-9185-B3C294A97AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC842EA8-A867-4C0A-9185-B3C294A97AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC842EA8-A867-4C0A-9185-B3C294A97AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC842EA8-A867-4C0A-9185-B3C294A97AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E95938D-A6DC-4AEF-BE43-743B507BDEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E95938D-A6DC-4AEF-BE43-743B507BDEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E95938D-A6DC-4AEF-BE43-743B507BDEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E95938D-A6DC-4AEF-BE43-743B507BDEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

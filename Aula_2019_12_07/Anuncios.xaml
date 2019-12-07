@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage Title="Meus anúncios" BackgroundColor="Gray" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Aula_2019_12_07.Anuncios">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Command="{Binding PopupCommand}" Text="PopUp"></Button>
+            <Button Command="{Binding NavegarCommand}" Text="Navegar"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
