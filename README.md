@@ -1,6 +1,6 @@
 # Xamarin.Forms
 
-Clone esse repositório e abra o arquivo MobileUX.sln no Visual Studio para Windows ou Mac
+Clone esse repositório e abra o arquivo Aula_2019_12_07.sln no Visual Studio para Windows ou Mac
 
 Documentação
 https://docs.microsoft.com/pt-br/xamarin/xamarin-forms/
